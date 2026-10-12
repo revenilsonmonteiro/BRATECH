@@ -1,0 +1,11 @@
+{
+  "channel_name": "Escola ATCS",
+  "editorial_focus": "Educação tecnológica: Linux, Termux, automação e engenharia de sistemas",
+  "audience": "Iniciantes em tecnologia, usuários Android, estudantes e desenvolvedores independentes",
+  "primary_goal": "Validar audiência e construir receita sustentável para a Escola ATCS",
+  "publishing_target": {
+    "long_videos_per_week": 1,
+    "shorts_per_week": 3
+  },
+  "disclaimer": "Resultados de audiência e receita não são garantidos. Validar toda afirmação técnica antes de publicar."
+}

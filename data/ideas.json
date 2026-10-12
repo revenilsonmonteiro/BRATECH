@@ -1,0 +1,34 @@
+[
+  {
+    "topic": "Como monitorar memória e processos no Android com Termux",
+    "audience": "Iniciantes em Linux e usuários Android",
+    "problem": "Entender quais informações do sistema podem ser consultadas sem root",
+    "format": "long",
+    "status": "idea",
+    "notes": "Demonstrar free -h, uptime e ps -A; explicar limites de permissões."
+  },
+  {
+    "topic": "Criando um monitor simples com Shell Script",
+    "audience": "Iniciantes em automação",
+    "problem": "Registrar métricas básicas sem copiar manualmente os resultados",
+    "format": "long",
+    "status": "idea",
+    "notes": "Testar comandos no ambiente-alvo e evitar alegar monitoramento completo."
+  },
+  {
+    "topic": "3 comandos Linux úteis no Android",
+    "audience": "Iniciantes em Termux",
+    "problem": "Aprender comandos práticos em menos de um minuto",
+    "format": "short",
+    "status": "idea",
+    "notes": "Short derivado de demonstração real."
+  },
+  {
+    "topic": "O que é Docker e para que serve?",
+    "audience": "Iniciantes em desenvolvimento",
+    "problem": "Entender imagem, container e porta HTTP",
+    "format": "long",
+    "status": "idea",
+    "notes": "Usar exemplo simples e testar os comandos antes de gravar."
+  }
+]

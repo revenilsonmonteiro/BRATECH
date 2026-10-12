@@ -1,0 +1,2 @@
+# ATCS Creator Intelligence nao possui dependencias externas.
+# Usa somente a biblioteca padrao do Python 3.10+.
