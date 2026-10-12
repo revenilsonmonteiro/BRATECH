@@ -86,3 +86,4 @@ Antes de publicar:
 3. Integrar um modelo de linguagem via API, com chave guardada em variável de ambiente.
 4. Preparar integração oficial com YouTube Data API para operações autorizadas.
 5. Criar painel local depois de validar a utilidade do MVP.
+# BRATECH
