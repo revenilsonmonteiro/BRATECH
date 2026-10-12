@@ -87,3 +87,4 @@ Antes de publicar:
 4. Preparar integração oficial com YouTube Data API para operações autorizadas.
 5. Criar painel local depois de validar a utilidade do MVP.
 # BRATECH
+# BRATECH
